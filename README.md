@@ -37,5 +37,6 @@ Finally run the following to start rammerhead: `node src/server.js`
 
 For any user-help non-issue related questions, especially pertaining to Rammerhead Browser, please ask them here: [Rammerhead Support Server](https://discord.gg/VNT4E7gN5Y).
 
-## lan help everything works only thing you have to configure is go into src/config.js and change this line `hostname: '192.168.1.105', // your LAN IP` to your actual lan ip from cmd by putting this coammdn in cmd `ipconfig | findstr /i "ipv4"` pressing enter and changing the ip adress to what it says
+## lan help 
+everything works only thing you have to configure is go into src/config.js and change this line `hostname: '192.168.1.105', // your LAN IP` to your actual lan ip from cmd by putting this coammdn in cmd `ipconfig | findstr /i "ipv4"` pressing enter and changing the ip adress to what it says
 
